@@ -1,3 +1,13 @@
 
-# [Real Python] Python, Boto3, and AWS S3: Demystified
+
+[EdX] Exercise 5
+wget https://us-west-2-tcdev.s3.amazonaws.com/courses/AWS-100-ADG/v1.1.0/exercises/ex-s3-upload.zip
+
+[EdX] Exercise 6
+wget https://s3-us-west-2.amazonaws.com/us-west-2-tcdev/courses/AWS-100-ADG/v1.1.0/exercises/ex-rekognition.zip
+
+
+
+[Real Python] Python, Boto3, and AWS S3: Demystified
 https://realpython.com/python-boto3-aws-s3/
+
