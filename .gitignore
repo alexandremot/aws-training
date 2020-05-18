@@ -5,5 +5,5 @@
 # pem
 *.pem
 
-# txt
-*txt
+# my secret keys
+aws_keys.txt
