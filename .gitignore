@@ -1,0 +1,9 @@
+
+# csv
+*.csv
+
+# pem
+*.pem
+
+# txt
+*txt
